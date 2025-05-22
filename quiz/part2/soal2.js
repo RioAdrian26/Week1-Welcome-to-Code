@@ -20,5 +20,4 @@ console.log("First Word: " + exampleFirstWord);
 console.log("Two Word: " + exampleTwotWord);
 console.log("Third Word:", exampleThirdWord);
 console.log("Four Word:", exampleFourWord);
-
 console.log("Five Word:", exampleFiveWord);
